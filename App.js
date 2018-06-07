@@ -8,6 +8,8 @@ export default class App extends React.Component {
   state = {
 
     location: null, 
+    latitude: null, 
+    longitude: null,
     errorMessage: null,
   };
 
@@ -50,10 +52,16 @@ export default class App extends React.Component {
 
         //however, if its granted, get the location
         let location = await Location.getCurrentPositionAsync({});
+        
+        //and narrow down to the latitude and longitude 
+        let latitude = location.coords.latitude
+        let longitude = location.coords.longitude
 
         //then set the state 
         this.setState({
-          location
+          location: location,
+          latitude: latitude,
+          longitude : longitude
         });
 
       }
@@ -66,15 +74,18 @@ export default class App extends React.Component {
 
     //set the text as we wait 
     let text = "Waiting...";
+    let longitude = "Getting Longitude...";
+    let latitude = "Getting Latitude...";
 
     //check if there is an error and report 
     if (this.state.errorMessage) {
 
       text = this.state.errorMessage;
 
-    } else if (this.state.location) {
+    } else if (this.state.latitude) {
 
-      text = JSON.stringify(this.state.location);
+      latitude = JSON.stringify(this.state.latitude);
+      longitude = JSON.stringify(this.state.longitude);
 
     }
 
@@ -82,7 +93,9 @@ export default class App extends React.Component {
     return (
 
       <View style={styles.container}>
-        <Text style={styles.paragraph}>{text} </Text>
+        <Text style={styles.paragraph}> Here is your current GPS Location </Text>
+        <Text style={styles.paragraph}>{latitude} </Text>
+        <Text style={styles.paragraph}>{longitude} </Text>
       </View>
 
     );
