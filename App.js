@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import { Platform, StyleSheet, Text, View } from 'react-native';
 import {Constants, Location, Permissions } from 'expo';
+import { Sentry } from 'react-native-sentry';
  
 export default class App extends React.Component {
 
