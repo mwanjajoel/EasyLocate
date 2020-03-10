@@ -1,0 +1,4 @@
+#Tue Mar 10 16:25:17 EAT 2020
+base.0=/Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0ef29ca289c5f24f867b9528b48df50e/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/9515ed656f2e31dcff94ed23d3a69418/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/b0f5285c7370faf51b5ad4f9c40f5cf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/7f54f77981508909e73516b163837257/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/a681daf3f1336d937873d85dda104931/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/759f94f241b5418c0e0c2c1fe5678c57/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/4f4b3dd45044d7b894317d5eaa284e22/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/68dc9f082bc546efcb3b282a9dd7dc8e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/638d338db5f0fa375710b3ef7de0c54a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0194637cd25bbab9e97df381d9f9f896/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/39f6c3aefd7db22b7fa1013cf6955fe1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0a2835cc464a98dc16594bfc43c6c4cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/86f457edd23e4c46561194ee0d648824/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/70e6b7fd013a5deba54e63de64c95eee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/4efa574e1588212c17499db921597003/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/d8294374ea234fd24098e5c0246afa90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/7bedecfda65fe94ed71d55a861471176/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/78824e16be6ed95a574390a8868e179d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/e3d99add9f357623b42a5ee539b6a500/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/32dc4e84e09bd1db36757cc6bd025ac3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/7a367319a5a463e5c25598c3917f0898/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/8c4e162246bd1fdd581e80262e48acb0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/17d43c9b5c9024e5cce00b301af1e6c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/8f5fb19bfa1ffc9bcd334697e76ffe38/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/513a2111503c2b00669f36b9c3b45403/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/dfbb3e3adb5569a500adc03ddcb03b27/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/c4706bc9264846cbc86277e6af8d4169/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/ee91efa7e567214aa51297936bff20f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/2ca57c4f05dc2335da5e7f0fed368eff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/903b5eb15e4e7150fa712ce3e365e820/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/39862eef49f13ee878c28a7ae155860b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/c939178cc86b1570700c2a09925e2573/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/b2fd9ff1ce7f2258cfaab4f26957d371/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/8527959946ada1ab9d51a25ee877013d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/d78568ce642dfcf3e3fdd9d2a60f94c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/b1e9d76b9ff303ea87569b4a886ff683/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/a77de01b8b521694aed09ba5beabbde1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:2:3-19
+		INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:2:3-19
+		INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0ef29ca289c5f24f867b9528b48df50e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0ef29ca289c5f24f867b9528b48df50e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/39f6c3aefd7db22b7fa1013cf6955fe1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/39f6c3aefd7db22b7fa1013cf6955fe1/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/513a2111503c2b00669f36b9c3b45403/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/513a2111503c2b00669f36b9c3b45403/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/dfbb3e3adb5569a500adc03ddcb03b27/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/dfbb3e3adb5569a500adc03ddcb03b27/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/513a2111503c2b00669f36b9c3b45403/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.v2.MainActivity
+ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0ef29ca289c5f24f867b9528b48df50e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0ef29ca289c5f24f867b9528b48df50e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/9515ed656f2e31dcff94ed23d3a69418/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/9515ed656f2e31dcff94ed23d3a69418/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/b0f5285c7370faf51b5ad4f9c40f5cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/b0f5285c7370faf51b5ad4f9c40f5cf7/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/7f54f77981508909e73516b163837257/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/7f54f77981508909e73516b163837257/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/a681daf3f1336d937873d85dda104931/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/a681daf3f1336d937873d85dda104931/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/759f94f241b5418c0e0c2c1fe5678c57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/759f94f241b5418c0e0c2c1fe5678c57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/4f4b3dd45044d7b894317d5eaa284e22/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/4f4b3dd45044d7b894317d5eaa284e22/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/68dc9f082bc546efcb3b282a9dd7dc8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/68dc9f082bc546efcb3b282a9dd7dc8e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/638d338db5f0fa375710b3ef7de0c54a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/638d338db5f0fa375710b3ef7de0c54a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0194637cd25bbab9e97df381d9f9f896/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0194637cd25bbab9e97df381d9f9f896/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/39f6c3aefd7db22b7fa1013cf6955fe1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/39f6c3aefd7db22b7fa1013cf6955fe1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0a2835cc464a98dc16594bfc43c6c4cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/0a2835cc464a98dc16594bfc43c6c4cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/86f457edd23e4c46561194ee0d648824/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/86f457edd23e4c46561194ee0d648824/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/70e6b7fd013a5deba54e63de64c95eee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/70e6b7fd013a5deba54e63de64c95eee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/4efa574e1588212c17499db921597003/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/4efa574e1588212c17499db921597003/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/d8294374ea234fd24098e5c0246afa90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/d8294374ea234fd24098e5c0246afa90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/7bedecfda65fe94ed71d55a861471176/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/7bedecfda65fe94ed71d55a861471176/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/78824e16be6ed95a574390a8868e179d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/78824e16be6ed95a574390a8868e179d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/e3d99add9f357623b42a5ee539b6a500/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/e3d99add9f357623b42a5ee539b6a500/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/32dc4e84e09bd1db36757cc6bd025ac3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/32dc4e84e09bd1db36757cc6bd025ac3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/7a367319a5a463e5c25598c3917f0898/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/7a367319a5a463e5c25598c3917f0898/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/8c4e162246bd1fdd581e80262e48acb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/8c4e162246bd1fdd581e80262e48acb0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/17d43c9b5c9024e5cce00b301af1e6c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/17d43c9b5c9024e5cce00b301af1e6c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/8f5fb19bfa1ffc9bcd334697e76ffe38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/8f5fb19bfa1ffc9bcd334697e76ffe38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/513a2111503c2b00669f36b9c3b45403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/513a2111503c2b00669f36b9c3b45403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/dfbb3e3adb5569a500adc03ddcb03b27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/dfbb3e3adb5569a500adc03ddcb03b27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/c4706bc9264846cbc86277e6af8d4169/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/c4706bc9264846cbc86277e6af8d4169/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/ee91efa7e567214aa51297936bff20f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/ee91efa7e567214aa51297936bff20f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/2ca57c4f05dc2335da5e7f0fed368eff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/2ca57c4f05dc2335da5e7f0fed368eff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/903b5eb15e4e7150fa712ce3e365e820/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/903b5eb15e4e7150fa712ce3e365e820/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/39862eef49f13ee878c28a7ae155860b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/39862eef49f13ee878c28a7ae155860b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/c939178cc86b1570700c2a09925e2573/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/c939178cc86b1570700c2a09925e2573/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/b2fd9ff1ce7f2258cfaab4f26957d371/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/b2fd9ff1ce7f2258cfaab4f26957d371/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/8527959946ada1ab9d51a25ee877013d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/8527959946ada1ab9d51a25ee877013d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/d78568ce642dfcf3e3fdd9d2a60f94c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/d78568ce642dfcf3e3fdd9d2a60f94c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/b1e9d76b9ff303ea87569b4a886ff683/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/b1e9d76b9ff303ea87569b4a886ff683/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/a77de01b8b521694aed09ba5beabbde1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/mwanjajoel/.gradle/caches/transforms-2/files-2.1/a77de01b8b521694aed09ba5beabbde1/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/mwanjajoel/Downloads/Code/Opensource/EasyLocate/android/app/src/debug/AndroidManifest.xml:5:22-75
